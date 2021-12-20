@@ -1,0 +1,43 @@
+div {
+  padding: 10px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+}
+p{padding: 5px;}
+.bottom-cloud {position: absolute;
+  right: 1100px;
+  margin-top: 50px;
+}
+h1 {margin-top: 100px;
+font-size: 90px;
+color: #66BFBF;
+line-height: 2;
+font-family: 'Satisfy', cursive;}
+.top-cloud{position: absolute;
+left: 850px;
+bottom: 550px;}
+.top{background-color: #E4F9F5;}
+h2 {color: #66BFBF;
+font-weight: normal;}
+h3{color: #11999E;}
+.foter-link {color: #11999E;}
+.skill-row{width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;}
+.wd{width: 30%;
+float: right;
+margin-right: 20px;
+border-radius: 100%;}
+.ww{width: 30%;
+float: left;
+margin-right: 20px;
+border-radius: 100%;}
+.bottom-container{background-color: #11999E;}
+.shit {color: #EAF6F6;}
+.footer-link{padding: 10px 10px;}
+.beluga {border-radius: 100%;}
